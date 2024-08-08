@@ -4,3 +4,9 @@ header{
     background-position: center;
     min-height: 500px;
 }
+@media  screen and (max-width: 670px){
+    header{
+        min-height: 300px;
+    }
+    
+}
